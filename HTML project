@@ -1,0 +1,70 @@
+<!DOCTYPE html> 
+<html> 
+<head>
+<h1>My life, My Scholarship</h1>
+</head>
+<body>
+<h3>About me</h3>
+
+<p>My name is Shane Pruttinun. I was born on April the 20th in 2005 and I am currently fifteen years old. I currrently living in a family of 4 in the province of Chain Mai, my dad's name is Pawin Pruttinun, my mom's name is Ganogwan Pruttinun and my brother's name is Shawn Pruttinun. This year I will be taking the Cambridge IGCSE exam in may.</p>
+<img src="Photos and Videos/comm3.jpg">
+<p><a href="https://en.wikipedia.org/wiki/Hang_Dong_District">Hang Dong</a></p>
+<p><a href="https://goo.gl/maps/H8UvLsZoxgv8caSp8">My home</a></p>
+<p><a href="https://goo.gl/maps/t7Av66HnF4Z1Q1MK9">My School</a></p>
+
+<h3> My Strengths/Selling Points</h3>
+<ul>
+<li>When I set my mind to complete a task or accomplish a goal, I will stop unti that goal is reached.</li>
+<li>I understand how priviledged I am in life and how I can contribute back to society</li>
+<li>I have participated in multiple community services</li>
+<li>I have participated in a MUN confrence</li>
+<li>I can live a balanced life</li>
+<li>I have strong work ethic</li>
+<li>I have good grades</li>
+<li>I am a team player</li>
+<li>I am part of SBS Student Council</li>
+</ul>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+<h4>Activities</h4>
+<table>
+   <tr>
+       <th> Activities</th>
+       <th> Description</th>
+   </tr>
+   <tr>
+       <td> <img src="Photos and Videos/Blind_com_service.jpg"width="500" height="600"> </td>
+       <td> This is a picture of me partaking in a community service. </td>
+   </tr>
+   <tr>
+       <td> <img src= "Photos and Videos/Ball.jpg "width="500" height="600"> </td>
+       <td> This is a picture of me playing basketball </td>
+   </tr>
+   <tr>
+        <td> <img src="Photos and Videos/Stuco_election.jpg"width="500" height="600"> </td>
+       <td> This picture was taken after we have one the Studen Council Election in SBS </td>
+   </tr>
+   <tr>
+       <td> <img src="Photos and Videos/MUN.jpg"width="500" height="600"> </td>
+        <td> This is a picture of me partaking in a MUN confrence </td>
+    </tr>
+    <tr> 
+        <td> <img src="Photos and Videos/Me.jpg"width="500" height="600"> </td>
+        <td> This is a picture of me in class, helping out fellow classmates and showing signs of leadership and being a team member. </td>
+     </tr>
+</table>
+<h3>Conclusion</h3>
+
+<p> One thing that puts me above others is that I understand how to live a balanced life and I can give back to the society from what I have gained. </p>
+<video width="400" controls>
+  <source src="Photos and Videos/Kobe" type="video/mp4">
+</video>
+<p>
+My name is 
+<a href="https://www.youtube.com/watch?v=5zr6Xm5IjPM" target="_blank">Kobe Bryant</a>.
+</p>
+</body>
+</html> 
